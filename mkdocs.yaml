@@ -139,7 +139,6 @@ markdown_extensions:
 
 # 页面结构
 nav:
+  - Home: index.md
   - 模型产线部署:
        - 高性能推理: pipeline_deploy/high_performance_inference.md
-       - 服务化部署: pipeline_deploy/service_deploy.md
-       - 端侧部署: pipeline_deploy/edge_deploy.md
