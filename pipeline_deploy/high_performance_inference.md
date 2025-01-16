@@ -424,6 +424,12 @@ PaddleX 结合模型信息与运行环境信息为每个模型提供默认的高
 </table>
 
 
-<a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/deploy/paddlex_hpi/pkgs/241017/paddlex_hpi-0.0.0.dev0-cp38-cp38-manylinux2014_x86_64.whl"></a>
-<a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/deploy/paddlex_hpi/pkgs/241017/paddlex_hpi-0.0.0.dev0-cp39-cp39-manylinux2014_x86_64.whl"></a>
-<a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/deploy/paddlex_hpi/pkgs/241017/paddlex_hpi-0.0.0.dev0-cp310-cp310-manylinux2014_x86_64.whl"></a>
+<a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/deploy/hpi/ultra_infer/releases/3.0.0rc0/ultra_infer_python-1.0.0.3.0.0rc0-cp38-cp38-linux_x86_64.whl"></a>
+<a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/deploy/hpi/ultra_infer/releases/3.0.0rc0/ultra_infer_python-1.0.0.3.0.0rc0-cp39-cp39-linux_x86_64.whl"></a>
+<a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/deploy/hpi/ultra_infer/releases/3.0.0rc0/ultra_infer_python-1.0.0.3.0.0rc0-cp310-cp310-linux_x86_64.whl"></a>
+
+<a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/deploy/hpi/ultra_infer/releases/3.0.0rc0/ultra_infer_gpu_python-1.0.0.3.0.0rc0-cp38-cp38-linux_x86_64.whl"></a>
+<a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/deploy/hpi/ultra_infer/releases/3.0.0rc0/ultra_infer_gpu_python-1.0.0.3.0.0rc0-cp39-cp39-linux_x86_64.whl"></a>
+<a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/deploy/hpi/ultra_infer/releases/3.0.0rc0/ultra_infer_gpu_python-1.0.0.3.0.0rc0-cp310-cp310-linux_x86_64.whl"></a>
+
+<a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/deploy/hpi/ultra_infer/releases/3.0.0rc0/paddlex_hpi-3.0.0rc0-py3-none-any.whl"></a>
